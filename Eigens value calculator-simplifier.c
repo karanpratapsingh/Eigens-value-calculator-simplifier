@@ -7,7 +7,7 @@
 /*This program calculates the eigens value of the given matrix.*/
 
 /* EIGENS VALUE CALCULATOR */
-/* Date : 8th Aug 2017 */
+/* Date : 5th Aug 2017 */
 /* By : Vertigo_101. */
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -126,7 +126,7 @@ void about()
   printf("/* EIGENS VALUE CALCULATOR/SIMPLIFIER */");
 
   gotoxy(70,18);
-  printf("/* Date : 8th Aug 2017 */");
+  printf("/* Date : 5th Aug 2017 */");
 
   gotoxy(70,19);
   printf("/* By : Vertigo_101. */");
